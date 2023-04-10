@@ -4,6 +4,10 @@
   "description": "Nice vscode theme",
   "version": "0.0.1",
   "publisher": "CN",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
