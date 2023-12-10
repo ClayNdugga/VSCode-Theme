@@ -1,6 +1,6 @@
 # favorite-theme README
 
-Enjoy!
+Search "CN.favorite-theme" on the VSCode extension marketplace
 
 
 
